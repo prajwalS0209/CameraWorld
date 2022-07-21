@@ -1,0 +1,69 @@
+/* Navigation*/
+
+#navbar ul li a {
+    font-size: 8px;
+}
+
+
+
+
+
+/* Home section  */
+#home{
+    padding: 0px 0px;
+    height:305px;
+}
+
+#home h1{
+    font-size: 20px;
+    margin: 0px;
+    padding: 7px;
+}
+#home p{
+    font-size: 13px;
+    padding:0px  20px;
+}
+
+
+#home h2{
+   font-size: 20px;
+   margin: 0px;
+}
+
+#home::before{
+    height:356px;
+}
+
+.btn1{
+    padding: 7px 72px;
+    margin: 0px;
+}
+
+.btn2{
+    padding: 7px 65px;
+    margin: 0px;
+}
+
+/* Service section */
+
+.container{
+    flex-direction: column;
+    height: 524px;
+}
+
+.box1 img{
+    height: 130px;
+    width: 150px;
+}
+
+
+
+/* Models section */
+
+#models{
+    margin-top: 30px;
+}
+
+/* footer */
+
+
